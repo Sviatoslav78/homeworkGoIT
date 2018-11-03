@@ -16,6 +16,5 @@ public class Main {
         String eleventh = "We caught a lot of fish. That was amazing.\n";
         System.out.println(first  + second + third + fourth + fifth + sixth + seventh + eighth + ninth + tenth + eleventh);
 
-
     }
 }
